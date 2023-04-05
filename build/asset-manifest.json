@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.971983ff.css",
+    "main.js": "/static/js/main.fbd46be4.js",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/slider-3.jpg": "/static/media/slider-3.44e7db7d684ca546bd1a.jpg",
+    "static/media/slider-1.jpg": "/static/media/slider-1.8d983ddf4997c77449d4.jpg",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/ava-1.jpg": "/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/ava-2.jpg": "/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/ava-4.jpg": "/static/media/ava-4.5f15524f7b3f80a834df.jpg",
+    "static/media/slider-2.jpg": "/static/media/slider-2.e89a528b0632c1b21662.jpg",
+    "static/media/toyota-offer-2.png": "/static/media/toyota-offer-2.e651ced9c09c2d887ae1.png",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/rolls-royce.png": "/static/media/rolls-royce.2b8d9ee249cba4833e36.png",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/blog-1.jpg": "/static/media/blog-1.e4949dd1d3e0ec0543c5.jpg",
+    "static/media/blog-2.jpg": "/static/media/blog-2.dce2eeb8549652564638.jpg",
+    "static/media/nissan-offer.png": "/static/media/nissan-offer.28d5bb149c66e6d6e7d9.png",
+    "static/media/bently-offer.png": "/static/media/bently-offer.c04bf0728cc33a5bfd0c.png",
+    "static/media/offer-toyota.png": "/static/media/offer-toyota.082ba201cae872383e04.png",
+    "static/media/mercedes-offer.png": "/static/media/mercedes-offer.d177a4fe9e2002ddb24d.png",
+    "static/media/blog-3.jpg": "/static/media/blog-3.0cd3766389d5b56badaa.jpg",
+    "static/media/bmw-offer.png": "/static/media/bmw-offer.3d5fd82800a29d8e1880.png",
+    "static/media/drive.jpg": "/static/media/drive.b72e6f2d1ccdbd6550a9.jpg",
+    "static/media/grand-i10.png": "/static/media/grand-i10.cb8e8cf4c925cf43b457.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.971983ff.css.map": "/static/css/main.971983ff.css.map",
+    "main.fbd46be4.js.map": "/static/js/main.fbd46be4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.971983ff.css",
+    "static/js/main.fbd46be4.js"
+  ]
+}
